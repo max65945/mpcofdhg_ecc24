@@ -1,0 +1,8 @@
+.julia
+.vscode
+
+rawData/*
+!rawData/.gitkeep
+
+tex/*
+!tex/.gitkeep
